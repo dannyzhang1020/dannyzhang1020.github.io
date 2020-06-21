@@ -19,7 +19,7 @@ title: Hyperspace by HTML5 UP
 				<h2>DevPost Projects</h2>
 				<p>Click here to see my DevPost Projects.</p>
 				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
+					<li><a href="https://devpost.com/dannyzhangtx" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
