@@ -31,7 +31,7 @@ title: Hyperspace by HTML5 UP
 				<h2>GitHub Projects</h2>
 				<p>Come check out my GitHub projects.</p>
 				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
+					<li><a href="https://github.com/dannyzhang1020" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
