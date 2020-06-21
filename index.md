@@ -16,8 +16,8 @@ title: Hyperspace by HTML5 UP
 		<a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>Sed ipsum dolor</h2>
-				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<h2>DevPost Projects</h2>
+				<p>Click here to see my DevPost Projects.</p>
 				<ul class="actions">
 					<li><a href="#" class="button">Learn more</a></li>
 				</ul>
@@ -28,8 +28,8 @@ title: Hyperspace by HTML5 UP
 		<a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>Feugiat consequat</h2>
-				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<h2>GitHub Projects</h2>
+				<p>Come check out my GitHub projects.</p>
 				<ul class="actions">
 					<li><a href="#" class="button">Learn more</a></li>
 				</ul>
