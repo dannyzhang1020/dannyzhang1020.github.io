@@ -6,7 +6,7 @@ title: Hyperspace by HTML5 UP
 <section id="intro" class="wrapper style1 fullscreen fade-up">
 	<div class="inner">
 		<h1>Danny Zhang</h1>
-		<p>Hey! I'm a rising senior at the Texas Academy of Math & Science in the Computer Science Track.</p>
+		<p>I'm a rising senior at the Texas Academy of Math & Science (TAMS) and I'm taking courses at UNT. I've always been interested in the intersection between Computer Science and Biology, so in my free time, I like to code some passion projects!</p>
 	</div>
 </section>
 
@@ -31,7 +31,7 @@ title: Hyperspace by HTML5 UP
 				<h2>GitHub Projects</h2>
 				<p>Come check out my GitHub projects.</p>
 				<ul class="actions">
-					<li><a href="https://github.com/dannyzhang1020" class="button">Learn more</a></li>
+					<li><a href="../dannyzhang1020.github.io/images/DannyZhang_Resume.pdf" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -40,10 +40,9 @@ title: Hyperspace by HTML5 UP
 		<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>Ultricies aliquam</h2>
-				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<h2>Resume</h2>
 				<ul class="actions">
-					<li><a href="#" class="button">Learn more</a></li>
+					<li><a href="#" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
