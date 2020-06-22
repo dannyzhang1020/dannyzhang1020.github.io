@@ -63,7 +63,7 @@ title: Hyperspace by HTML5 UP
 				<p>Code Together connects teachers with programming students by allowing the participants to code and compile teacher-created problems within a Kahoot-like app. Students join virtual classrooms to learn.</p>
 			</section>
 			<section>
-				<span class="icon major fa-tshirt"></span>
+				<span class="icon major fa-user-tie"></span>
 				<h3>Thriftr (TitanHacks)</h3>
 				<p>Reducing clothing waste, one listing at a time. Thriftr aims to promote sustainability by providing a platform for recycling clothing. Integrated with Google Maps API, the user can find new styles nearby.</p>
 			</section>
@@ -73,7 +73,7 @@ title: Hyperspace by HTML5 UP
 				<p>COVID-19 Diagnosis made easy, quick, and guaranteed. Founded a web application that can provide a straightforward diagnosis based on the user's entered symptoms.</p>
 			</section>
 			<section>
-				<span class="icon major fa-hospital"></span>
+				<span class="icon major fa-h-square"></span>
 				<h3>UC Irvine Heart Disease Data Analysis</h3>
 				<p>Used R to generate statistical plots that analyze age, maximum heart rate, cholesterol, and blood pressure to derive novel correlations. Data compiled from Kaggle.</p>
 			</section>
@@ -83,7 +83,7 @@ title: Hyperspace by HTML5 UP
 				<p>Utilized R to plot death rate in South Korea over time. Found exponential equation that closely follows the data points.</p>
 			</section>
 			<section>
-				<span class="icon major fa-grin"></span>
+				<span class="icon major fa-grin-beam"></span>
 				<h3>MBTI Personality Type Analysis</h3>
 				<p>Generated a histogram that shows the distribution of Meyer-Briggs personality types in a population gathered from Kaggle. Found that INFP is the most represented out of the group.</p>
 			</section>
