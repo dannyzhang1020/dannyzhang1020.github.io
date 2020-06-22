@@ -18,7 +18,7 @@ title: Hyperspace by HTML5 UP
 		<a href="#" class="image"><img src="../dannyzhang1020.github.io/images/dev-post-555431.png" alt="" data-position="center center" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>DevPost Projects</h2>
+				<h2>DevPost Submissions</h2>
 				<p>Click here to see my DevPost Projects.</p>
 				<ul class="actions">
 					<li><a href="https://devpost.com/dannyzhangtx" class="button" target = "_blank">Learn more</a></li>
