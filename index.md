@@ -14,7 +14,7 @@ title: Hyperspace by HTML5 UP
 <!-- One -->
 <section id="one" class="wrapper style2 spotlights">
 	<section>
-		<a href="#" class="image"><img src="../dannyzhang1020.github.io/images/devpost.jpg" alt="" data-position="center center" /></a>
+		<a href="#" class="image"><img src="../dannyzhang1020.github.io/images/dev-post-555431.png" alt="" data-position="center center" /></a>
 		<div class="content">
 			<div class="inner">
 				<h2>DevPost Projects</h2>
