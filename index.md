@@ -26,7 +26,7 @@ title: Hyperspace by HTML5 UP
 		</div>
 	</section>
 	<section>
-		<a href="#" class="image"><img src="../dannyzhang1020.github.io/images/resume-linkedin-computer-icons-social-media-social-networking-service-social-media-png-clip-art.png" alt="" data-position="top center" /></a>
+		<a href="#" class="image"><img src="../dannyzhang1020.github.io/images/github-logo.png" alt="" data-position="top center" /></a>
 		<div class="content">
 			<div class="inner">
 				<h2>GitHub Projects</h2>
