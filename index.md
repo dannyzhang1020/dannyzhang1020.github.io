@@ -83,7 +83,7 @@ title: Hyperspace by HTML5 UP
 				<p>Utilized R to plot death rate in South Korea over time. Found exponential equation that closely follows the data points.</p>
 			</section>
 			<section>
-				<span class="icon major fa-smile"></span>
+				<span class="icon major fa-street-view"></span>
 				<a href = "https://github.com/dannyzhang1020/mbti-analysis" target = "_blank"><h3>MBTI Personality Type Analysis</h3></a>
 				<p>Generated a histogram that shows the distribution of Meyer-Briggs personality types in a population gathered from Kaggle. Found that INFP is the most represented out of the group.</p>
 			</section>
