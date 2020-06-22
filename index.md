@@ -63,7 +63,7 @@ title: Hyperspace by HTML5 UP
 				<p>Code Together connects teachers with programming students by allowing the participants to code and compile teacher-created problems within a Kahoot-like app. Students join virtual classrooms to learn.</p>
 			</section>
 			<section>
-				<span class="icon major fa-hat-wizard"></span>
+				<span class="icon major fa-shoe-prints"></span>
 				<a href = "https://devpost.com/software/thriftr" target = "_blank"><h3>Thriftr (TitanHacks)</h3></a>
 				<p>Reducing clothing waste, one listing at a time. Thriftr aims to promote sustainability by providing a platform for recycling clothing. Integrated with Google Maps API, the user can find new styles nearby.</p>
 			</section>
@@ -83,7 +83,7 @@ title: Hyperspace by HTML5 UP
 				<p>Utilized R to plot death rate in South Korea over time. Found exponential equation that closely follows the data points.</p>
 			</section>
 			<section>
-				<span class="icon major fa-grin-hearts"></span>
+				<span class="icon major fa-smile"></span>
 				<a href = "https://github.com/dannyzhang1020/mbti-analysis" target = "_blank"><h3>MBTI Personality Type Analysis</h3></a>
 				<p>Generated a histogram that shows the distribution of Meyer-Briggs personality types in a population gathered from Kaggle. Found that INFP is the most represented out of the group.</p>
 			</section>
