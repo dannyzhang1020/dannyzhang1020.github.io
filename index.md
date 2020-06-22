@@ -61,6 +61,7 @@ title: Hyperspace by HTML5 UP
 				<span class="icon major fa-code"></span>
 				<h3>Code Together (RowdyHacks)</h3>
 				<p>Code Together connects teachers with programming students by allowing the participants to code and compile teacher-created problems within a Kahoot-like app. Students join virtual classrooms to learn.</p>
+				<a href = "https://devpost.com/software/code-together-v5e8tz" target = "_blank">CodeTogether</a>
 			</section>
 			<section>
 				<span class="icon major fa-user-tie"></span>
