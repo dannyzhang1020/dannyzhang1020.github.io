@@ -53,8 +53,8 @@ title: Hyperspace by HTML5 UP
 <!-- Two -->
 <section id="two" class="wrapper style3 fade-up">
 	<div class="inner">
-		<h2>What we do</h2>
-		<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
+		<h2>My Personal Favorites</h2>
+		<p>Here are some of my highlighted developments from my DevPost submissions and GitHub Repositories.</p>
 		<div class="features">
 			<section>
 				<span class="icon major fa-code"></span>
