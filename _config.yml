@@ -9,8 +9,8 @@
 title: Danny Zhang
 email: dannyzhangtx@gmail.com
 description: My personal software development portfolio.
-baseurl: "/hyperspace-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: "https://dannyzhang1020.github.io/" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
@@ -22,7 +22,7 @@ instagram_url:
 linkedin_url: https://www.linkedin.com/in/danny-zhang-34b076198/
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url:
 
 # Build settings
 markdown: kramdown
