@@ -59,33 +59,33 @@ title: Hyperspace by HTML5 UP
 		<div class="features">
 			<section>
 				<span class="icon major fa-code"></span>
-				<h3>Lorem ipsum amet</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<h3>Code Together (RowdyHacks)</h3>
+				<p>Code Together connects teachers with programming students by allowing the participants to code and compile teacher-created problems within a Kahoot-like app. Students join virtual classrooms to learn.</p>
 			</section>
 			<section>
-				<span class="icon major fa-lock"></span>
-				<h3>Aliquam sed nullam</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<span class="icon major fa-tshirt"></span>
+				<h3>Thriftr (TitanHacks)</h3>
+				<p>Reducing clothing waste, one listing at a time. Thriftr aims to promote sustainability by providing a platform for recycling clothing. Integrated with Google Maps API, the user can find new styles nearby.</p>
 			</section>
 			<section>
-				<span class="icon major fa-cog"></span>
-				<h3>Sed erat ullam corper</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<span class="icon major fa-heartbeat"></span>
+				<h3>CovidScreen (health{hacks})</h3>
+				<p>COVID-19 Diagnosis made easy, quick, and guaranteed. Founded a web application that can provide a straightforward diagnosis based on the user's entered symptoms.</p>
 			</section>
 			<section>
-				<span class="icon major fa-desktop"></span>
-				<h3>Veroeros quis lorem</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<span class="icon major fa-hospital"></span>
+				<h3>UC Irvine Heart Disease Data Analysis</h3>
+				<p>Used R to generate statistical plots that analyze age, maximum heart rate, cholesterol, and blood pressure to derive novel correlations. Data compiled from Kaggle.</p>
 			</section>
 			<section>
-				<span class="icon major fa-chain"></span>
-				<h3>Urna quis bibendum</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<span class="icon major fa-user-md"></span>
+				<h3>South Korea Coronavirus Cases</h3>
+				<p>Utilized R to plot death rate in South Korea over time. Found exponential equation that closely follows the data points.</p>
 			</section>
 			<section>
-				<span class="icon major fa-diamond"></span>
-				<h3>Aliquam urna dapibus</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<span class="icon major fa-grin"></span>
+				<h3>MBTI Personality Type Analysis</h3>
+				<p>Generated a histogram that shows the distribution of Meyer-Briggs personality types in a population gathered from Kaggle. Found that INFP is the most represented out of the group.</p>
 			</section>
 		</div>
 	</div>
