@@ -88,8 +88,5 @@ title: Hyperspace by HTML5 UP
 				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
 			</section>
 		</div>
-		<ul class="actions">
-			<li><a href="#" class="button">Learn more</a></li>
-		</ul>
 	</div>
 </section>
