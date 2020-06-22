@@ -6,7 +6,7 @@ title: Hyperspace by HTML5 UP
 <section id="intro" class="wrapper style1 fullscreen fade-up">
 	<div class="inner">
 		<h1>Danny Zhang</h1>
-		<h3>Software Developer</h3>
+		<h3>Software Developer, Bioinformatics Enthusiast</h3>
 		<p>I'm a rising senior at the Texas Academy of Math & Science (TAMS) and I'm taking courses at UNT. I've always been interested in the intersection between Computer Science and Biology, so in my free time, I like to code some passion projects!</p>
 		<p>Here, you can find my Devpost hackathon submissions and GitHub repositories, as well as some personal favorites down below.</p>
 	</div>
