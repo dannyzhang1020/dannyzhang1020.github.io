@@ -63,7 +63,7 @@ title: Hyperspace by HTML5 UP
 				<p>Code Together connects teachers with programming students by allowing the participants to code and compile teacher-created problems within a Kahoot-like app. Students join virtual classrooms to learn.</p>
 			</section>
 			<section>
-				<span class="icon major fa-shoe-prints"></span>
+				<span class="icon fas fa-tshirt"></span>
 				<a href = "https://devpost.com/software/thriftr" target = "_blank"><h3>Thriftr (TitanHacks)</h3></a>
 				<p>Reducing clothing waste, one listing at a time. Thriftr aims to promote sustainability by providing a platform for recycling clothing. Integrated with Google Maps API, the user can find new styles nearby.</p>
 			</section>
