@@ -31,7 +31,7 @@ title: Hyperspace by HTML5 UP
 		<div class="content">
 			<div class="inner">
 				<h2>GitHub Projects</h2>
-				<p>Come check out my GitHub projects.</p>
+				<p>Click here to see my GitHub Projects.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/dannyzhang1020" class="button" target = "_blank">Learn more</a></li>
 				</ul>
@@ -54,8 +54,8 @@ title: Hyperspace by HTML5 UP
 <!-- Two -->
 <section id="two" class="wrapper style3 fade-up">
 	<div class="inner">
-		<h2>My Personal Favorites</h2>
-		<p>Here are some of my highlighted developments from my DevPost submissions and GitHub Repositories.</p>
+		<h2>Highlighted Projects</h2>
+		<p>Here are some of my featured developments from my DevPost submissions and GitHub Repositories. Click on the title to learn more.</p>
 		<div class="features">
 			<section>
 				<span class="icon major fa-code"></span>
