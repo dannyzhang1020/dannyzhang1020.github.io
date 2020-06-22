@@ -6,6 +6,7 @@ title: Hyperspace by HTML5 UP
 <section id="intro" class="wrapper style1 fullscreen fade-up">
 	<div class="inner">
 		<h1>Danny Zhang</h1>
+		<h2>Software Developer</h2>
 		<p>I'm a rising senior at the Texas Academy of Math & Science (TAMS) and I'm taking courses at UNT. I've always been interested in the intersection between Computer Science and Biology, so in my free time, I like to code some passion projects!</p>
 	</div>
 </section>
