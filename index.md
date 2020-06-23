@@ -6,9 +6,9 @@ title: Hyperspace by HTML5 UP
 <section id="intro" class="wrapper style1 fullscreen fade-up">
 	<div class="inner">
 		<h1>Danny Zhang</h1>
-		<h3>Software Developer, Bioinformatics Enthusiast</h3>
+		<h3>Software Developer, Bioinformatics Researcher</h3>
 		<p>I'm a rising senior at the Texas Academy of Math & Science (TAMS) and I'm taking courses at UNT. I've always been interested in the intersection between Computer Science and Biology, so in my free time, I like to code some passion projects!</p>
-		<p>Here, you can find my Devpost hackathon submissions and GitHub repositories, as well as some personal favorites down below.</p>
+		<p>Here, you can find my DevPost hackathon submissions and GitHub repositories, as well as some personal favorites down below.</p>
 	</div>
 </section>
 
@@ -18,7 +18,7 @@ title: Hyperspace by HTML5 UP
 		<a href="#" class="image"><img src="../dannyzhang1020.github.io/images/dev-post-555431.png" alt="" data-position="center center" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>DevPost Submissions</h2>
+				<h2>Hackathon Submissions</h2>
 				<p>Click here to see my DevPost Projects.</p>
 				<ul class="actions">
 					<li><a href="https://devpost.com/dannyzhangtx" class="button" target = "_blank">Learn more</a></li>
@@ -55,8 +55,13 @@ title: Hyperspace by HTML5 UP
 <section id="two" class="wrapper style3 fade-up">
 	<div class="inner">
 		<h2>Highlighted Projects</h2>
-		<p>Here are some of my featured developments from my DevPost submissions and GitHub Repositories. Click on the title to learn more.</p>
+		<p>Here are some of my featured developments from my DevPost submissions and GitHub Repositories. Click on the titles to learn more.</p>
 		<div class="features">
+		    <section>
+        		<span class="icon major fa-heartbeat"></span>
+        		<a href = "https://devpost.com/software/covidscreen" target = "_blank"><h3>CovidScreen (GeomHacks Winner)</h3></a>
+     			<p>COVID-19 Diagnosis made easy, quick, and guaranteed. Founded a web application that can provide a straightforward diagnosis based on the user's entered symptoms.</p>
+        	</section>
 			<section>
 				<span class="icon major fa-code"></span>
 				<a href = "https://devpost.com/software/code-together-v5e8tz" target = "_blank"><h3>Code Together (RowdyHacks)</h3></a>
@@ -66,11 +71,6 @@ title: Hyperspace by HTML5 UP
 				<span class="icon major fa-graduation-cap"></span>
 				<a href = "https://devpost.com/software/thriftr" target = "_blank"><h3>Thriftr (TitanHacks)</h3></a>
 				<p>Reducing clothing waste, one listing at a time. Thriftr aims to promote sustainability by providing a platform for recycling clothing. Integrated with Google Maps API, the user can find new styles nearby.</p>
-			</section>
-			<section>
-				<span class="icon major fa-heartbeat"></span>
-				<a href = "https://devpost.com/software/covidscreen" target = "_blank"><h3>CovidScreen (health{hacks})</h3></a>
-				<p>COVID-19 Diagnosis made easy, quick, and guaranteed. Founded a web application that can provide a straightforward diagnosis based on the user's entered symptoms.</p>
 			</section>
 			<section>
 				<span class="icon major fa-h-square"></span>
