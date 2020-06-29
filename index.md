@@ -17,7 +17,7 @@ title: Hyperspace by HTML5 UP
 	<div class="inner">
 		<h1>Danny Zhang</h1>
 		<h3>Software Developer, Bioinformatics Researcher</h3>
-		<p>I'm a rising senior at the Texas Academy of Math & Science (TAMS) and I'm taking courses at UNT. I've always been interested in the intersection between Computer Science and Biology, so in my free time, I like to code some passion projects!</p>
+		<p>I'm a senior at the Texas Academy of Math & Science (TAMS) and I'm taking courses at UNT. I've always been interested in the intersection between Computer Science and Biology, so in my free time, I like to code some passion projects!</p>
 		<p>Here, you can find my DevPost hackathon submissions and GitHub repositories, as well as some personal favorites down below.</p>
 	</div>
 </section>
@@ -84,8 +84,8 @@ title: Hyperspace by HTML5 UP
 			</section>
 			<section>
 				<span class="icon major fa-h-square"></span>
-				<a href = "https://github.com/dannyzhang1020/uci-heart-disease" target = "_blank"><h3>UC Irvine Heart Disease Data Analysis</h3></a>
-				<p>Used R to generate statistical plots that analyze age, maximum heart rate, cholesterol, and blood pressure to derive novel correlations. Data compiled from Kaggle.</p>
+				<a href = "https://devpost.com/software/datadaygrind" target = "_blank"><h3>HeartTrends (Data Day Grind)</h3></a>
+				<p>Predictive models for cardiovascular diseases through an exploratory UI. Used R to generate statistical plots that analyze age, maximum heart rate, cholesterol, and blood pressure to derive novel correlations. Data compiled from the UC Irvine dataset in Kaggle.</p>
 			</section>
 			<section>
 				<span class="icon major fa-user-md"></span>
