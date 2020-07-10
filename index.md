@@ -25,7 +25,7 @@ title: Hyperspace by HTML5 UP
 <!-- One -->
 <section id="one" class="wrapper style2 spotlights">
 	<section>
-		<a href="#" class="image"><img src="../dannyzhang1020.github.io/images/dev-post-555431.png" alt="" data-position="center center" /></a>
+		<a href="https://devpost.com/dannyzhangtx" class="image"><img src="../dannyzhang1020.github.io/images/dev-post-555431.png" alt="" data-position="center center" /></a>
 		<div class="content">
 			<div class="inner">
 				<h2>Hackathon Submissions</h2>
@@ -37,7 +37,7 @@ title: Hyperspace by HTML5 UP
 		</div>
 	</section>
 	<section>
-		<a href="#" class="image"><img src="../dannyzhang1020.github.io/images/github-logo.png" alt="" data-position="top center" /></a>
+		<a href="https://github.com/dannyzhang1020" class="image"><img src="../dannyzhang1020.github.io/images/github-logo.png" alt="" data-position="top center" /></a>
 		<div class="content">
 			<div class="inner">
 				<h2>GitHub Projects</h2>
@@ -49,7 +49,7 @@ title: Hyperspace by HTML5 UP
 		</div>
 	</section>
 	<section>
-		<a href="#" class="image"><img src="../dannyzhang1020.github.io/images/cv_PNG42.png" alt="" data-position="25% 25%" /></a>
+		<a href="../dannyzhang1020.github.io/images/DannyZhang_Resume.pdf" class="image"><img src="../dannyzhang1020.github.io/images/cv_PNG42.png" alt="" data-position="25% 25%" /></a>
 		<div class="content">
 			<div class="inner">
 				<h2>Resume</h2>
