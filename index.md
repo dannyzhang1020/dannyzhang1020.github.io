@@ -54,7 +54,7 @@ title: Hyperspace by HTML5 UP
 			<div class="inner">
 				<h2>Resume</h2>
 				<ul class="actions">
-					<li><a href="../dannyzhang1020.github.io/images/DannyZhang_Resume.pdf" class="button" target = "_blank">Learn More</a></li>
+					<li><a href="../dannyzhang1020.github.io/images/DannyZhang_Resume2.pdf" class="button" target = "_blank">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
