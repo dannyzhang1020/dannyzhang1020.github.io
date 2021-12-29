@@ -17,7 +17,7 @@ title: Hyperspace by HTML5 UP
 	<div class="inner">
 		<h1>Danny Zhang</h1>
 		<h3>Software Developer and Bioinformatics Researcher</h3>
-		<p>I'm a senior at the Texas Academy of Mathematics and Science (TAMS) and I'm taking courses at UNT. I've always been interested in the intersection between Computer Science and Biology, so in my free time, I like to code some passion projects!</p>
+		<p>I'm a freshman at Rice University. I've always been interested in the intersection between Computer Science and Biology, so in my free time, I like to code some passion projects!</p>
 		<p>Here, you can find my DevPost hackathon submissions and GitHub repositories, as well as some personal favorites down below.</p>
 	</div>
 </section>
