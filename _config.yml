@@ -9,7 +9,7 @@
 title: Danny Zhang
 email: dannyzhangtx@gmail.com
 description: My personal software development portfolio.
-theme: hyperspace-jekyll-theme # the subpath of your site, e.g. /blog
+baseurl: "/hyperspace-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://dannyzhang1020.github.io" # the base hostname & protocol for your site
 
 # Social settings
@@ -29,7 +29,7 @@ markdown: kramdown
 
 # Plugin: jekyll-seo-tag
 twitter:
-  username: andrewbanchich
+  username: easydeze
 # Add one or more of the following
 facebook:
   app_id:
